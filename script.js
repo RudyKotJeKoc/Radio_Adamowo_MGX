@@ -1355,7 +1355,7 @@ const SinsGuide = {
             {
                 title: "Grzech 2: Przerzucanie winy i granie ofiary",
                 description: "Manipulant nigdy nie przyzna się do błędu, obwinia innych, grając rolę pokrzywdzonego.",
-                example: "Matka opisuje syna jako „niewdzięcznego", choć to ona zaniedbywała rodzinę.",
+                example: "Matka opisuje syna jako &bdquo;niewdzięcznego&rdquo;, choć to ona zaniedbywała rodzinę.",
                 detection: [
                     "Czy ktoś zawsze unika odpowiedzialności?",
                     "Czy gra ofiarę, by zyskać współczucie?"
@@ -1363,8 +1363,8 @@ const SinsGuide = {
             },
             {
                 title: "Grzech 3: Gaslighting",
-                description: "Podważanie percepcji ofiary, wmawianie, że „przesadza" lub „wymyśla".",
-                example: "Matka wpisała, że syn ma „schizofrenię" bez diagnozy, by go zdyskredytować.",
+                description: "Podważanie percepcji ofiary, wmawianie, że &bdquo;przesadza&rdquo; lub &bdquo;wymyśla&rdquo;.",
+                example: "Matka wpisała, że syn ma &bdquo;schizofrenię&rdquo; bez diagnozy, by go zdyskredytować.",
                 detection: [
                     "Czy czujesz, że tracisz pewność siebie?",
                     "Czy ktoś podważa Twoje wspomnienia?"
@@ -1372,17 +1372,17 @@ const SinsGuide = {
             },
             {
                 title: "Grzech 4: Inwigilacja i obsesyjna kontrola",
-                description: "Notowanie każdego ruchu ofiary, zbieranie „dowodów" do szantażu.",
-                example: "Notowanie godzin gaszenia światła jako „dowód niewdzięczności".",
+                description: "Notowanie każdego ruchu ofiary, zbieranie &bdquo;dowodów&rdquo; do szantażu.",
+                example: "Notowanie godzin gaszenia światła jako &bdquo;dowód niewdzięczności&rdquo;.",
                 detection: [
                     "Czy ktoś monitoruje Twoje działania?",
-                    "Czy zbiera „dowody" na Twoje zachowanie?"
+                    "Czy zbiera &bdquo;dowody&rdquo; na Twoje zachowanie?"
                 ]
             },
             {
                 title: "Grzech 5: Używanie instytucji jako broni",
                 description: "Wciąganie policji, sądów, urzędów do rodzinnych konfliktów.",
-                example: "Wzywanie dzielnicowego, by uzyskać „papier" na syna.",
+                example: "Wzywanie dzielnicowego, by uzyskać &bdquo;papier&rdquo; na syna.",
                 detection: [
                     "Czy ktoś grozi Ci instytucjami?",
                     "Czy eskaluje konflikty do poziomu urzędowego?"
@@ -1391,7 +1391,7 @@ const SinsGuide = {
             {
                 title: "Grzech 6: Szantaż emocjonalny i groźby",
                 description: "Grożenie odebraniem domu, wykluczeniem z rodziny.",
-                example: "„Jak się nie podporządkujesz, to zabiorę ci wszystko".",
+                example: "&bdquo;Jak się nie podporządkujesz, to zabiorę ci wszystko&rdquo;.",
                 detection: [
                     "Czy decyzje są wymuszane strachem?",
                     "Czy groźby dotyczą Twojej przyszłości?"
@@ -1409,7 +1409,7 @@ const SinsGuide = {
             {
                 title: "Grzech 8: Sianie podziałów i rozbijanie więzi",
                 description: "Nastawianie rodziny przeciwko sobie, budowanie sojuszy.",
-                example: "„Twój brat też mówił, że masz problem".",
+                example: "&bdquo;Twój brat też mówił, że masz problem&rdquo;.",
                 detection: [
                     "Czy ktoś oczernia innych za plecami?",
                     "Czy rodzina przestała się wspierać?"
