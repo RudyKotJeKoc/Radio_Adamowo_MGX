@@ -1,0 +1,36 @@
+<svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg" class="infinity-symbol" aria-hidden="true">
+  <defs>
+    <linearGradient id="infinityGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#fb923c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dc2626;stop-opacity:1" />
+    </linearGradient>
+    <filter id="infinityGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Lemniscate of Bernoulli: parametric equation -->
+  <path id="infinityPath" 
+        d="M 50 50 C 50 25, 25 25, 25 50 C 25 75, 50 75, 50 50 C 50 25, 75 25, 75 50 C 75 75, 100 75, 100 50 C 100 25, 125 25, 125 50 C 125 75, 150 75, 150 50 C 150 25, 175 25, 175 50 C 175 75, 150 75, 150 50"
+        fill="none" 
+        stroke="url(#infinityGradient)" 
+        stroke-width="3" 
+        stroke-linecap="round"
+        filter="url(#infinityGlow)"
+        pathLength="100" />
+  
+  <!-- Animated marker dot -->
+  <circle id="infinityMarker" 
+          r="4" 
+          fill="#fbbf24"
+          filter="url(#infinityGlow)">
+    <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#infinityPath"/>
+    </animateMotion>
+  </circle>
+</svg>

@@ -1,0 +1,14 @@
+Struktura folderów muzyki zgodnie z playlist.json:
+
+music/
+├── Utwor (1).mp3 ... Utwor (357).mp3    # 357 utworów ambient (główny folder)
+├── barbara/
+│   └── Utwor (1).mp3 ... Utwor (46).mp3  # 46 utworów barbara
+├── disco/
+│   └── Utwor (1).mp3 ... Utwor (25).mp3  # 25 utworów disco
+├── hiphop/
+│   └── Utwor (1).mp3 ... Utwor (53).mp3  # 53 utwory hiphop
+└── kids/
+    └── Utwor (1).mp3 ... Utwor (46).mp3  # 46 utworów kids
+
+Wszystkie pliki powinny być w formacie MP3, 128kbps lub wyższej jakości.

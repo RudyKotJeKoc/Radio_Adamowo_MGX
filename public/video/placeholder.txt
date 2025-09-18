@@ -1,0 +1,4 @@
+Umieść tutaj plik wideo:
+- sprawa-adamowo.mp4 (materiał dokumentalny)
+
+Format: MP4, zalecana rozdzielczość: 1280x720 lub wyższa

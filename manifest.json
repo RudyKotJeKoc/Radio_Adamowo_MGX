@@ -1,0 +1,33 @@
+{
+  "name": "Radio Adamowo",
+  "short_name": "Radio Adamowo",
+  "description": "Słuchaj szumu prawdy w eterze manipulacji. Edukacja o toksycznych relacjach i manipulacji psychologicznej.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://public-frontend-cos.metadl.com/mgx/img/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://public-frontend-cos.metadl.com/mgx/img/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["music", "education", "entertainment"],
+  "lang": "pl",
+  "scope": "/",
+  "screenshots": [
+    {
+      "src": "https://public-frontend-cos.metadl.com/mgx/img/favicon.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}

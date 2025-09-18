@@ -1,0 +1,7 @@
+Umieść tutaj 4 zdjęcia studia:
+- studio-1.png (główne zdjęcie studia)
+- studio-2.png (serce radia)
+- studio-3.png (ekspertka w okularach)
+- studio-4.png (prowadzący z gestem powitania)
+
+Zdjęcia powinny mieć rozdzielczość co najmniej 800x600px i format PNG lub JPG.

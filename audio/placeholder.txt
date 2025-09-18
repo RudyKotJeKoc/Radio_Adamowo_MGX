@@ -1,0 +1,22 @@
+Pliki audio podcastów (16 plików):
+
+audio/
+├── Adamskich_Sprawa.mp3
+├── analiza.mp3
+├── analiza2.mp3
+├── analiza3.mp3
+├── analizadomek.mp3
+├── domek.mp3
+├── Dramat_Rodziny.mp3
+├── kalendarz.mp3
+├── kalendarz_analiza.mp3
+├── Konflikt_rodzinny.mp3
+├── Konflikt_tragedia.mp3
+├── Rażąca_Niewdzięczność.mp3
+├── rekonstrukcja.mp3
+├── Rodzinny_konflikt.mp3
+├── sledztwo.mp3
+├── Splątana_Historia.mp3
+└── szept.mp3
+
+Wszystkie pliki powinny być w formacie MP3, zalecana jakość: 64-128kbps (dla mowy).
